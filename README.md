@@ -1,2 +1,2 @@
-# into-ml
-Diving into machine learning foundations using iPython Notebook
+# Intelligence Retrieval
+### Towards development of 'thinking' computer systems
